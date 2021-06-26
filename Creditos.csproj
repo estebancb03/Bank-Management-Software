@@ -1,0 +1,436 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{E765DA29-37BE-4D5F-820C-5733CAC9EB7E}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Creditos</RootNamespace>
+    <AssemblyName>Creditos</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="Microsoft.VisualBasic.PowerPacks, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Design" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Menus\inicioSesion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Menus\inicioSesion.Designer.cs">
+      <DependentUpon>inicioSesion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Modelo de Datos\modeloNiveles.cs" />
+    <Compile Include="Modelo de Datos\modeloBitacora.cs" />
+    <Compile Include="Niveles\ModificarRol.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Niveles\ModificarRol.Designer.cs">
+      <DependentUpon>ModificarRol.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Niveles\registrarNivel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Niveles\registrarNivel.Designer.cs">
+      <DependentUpon>registrarNivel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Funciones\registrarFuncion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Funciones\registrarFuncion.Designer.cs">
+      <DependentUpon>registrarFuncion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Niveles\registrarRol.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Niveles\registrarRol.Designer.cs">
+      <DependentUpon>registrarRol.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Reportes\reporteBitacoraFechas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reportes\reporteBitacoraFechas.Designer.cs">
+      <DependentUpon>reporteBitacoraFechas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Reportes\reporteBitacoraUsuarios.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reportes\reporteBitacoraUsuarios.Designer.cs">
+      <DependentUpon>reporteBitacoraUsuarios.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Reportes\reporteRolesNivel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reportes\reporteRolesNivel.Designer.cs">
+      <DependentUpon>reporteRolesNivel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Reportes\reporteRolesTodos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reportes\reporteRolesTodos.Designer.cs">
+      <DependentUpon>reporteRolesTodos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Reportes\reporteUsuariosTodos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reportes\reporteUsuariosTodos.Designer.cs">
+      <DependentUpon>reporteUsuariosTodos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Reportes\reporteUsuariosNivel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reportes\reporteUsuariosNivel.Designer.cs">
+      <DependentUpon>reporteUsuariosNivel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Usuarios\modificarDatosUsuario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Usuarios\modificarDatosUsuario.Designer.cs">
+      <DependentUpon>modificarDatosUsuario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Usuarios\modificarCondicionUsuario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Usuarios\modificarCondicionUsuario.Designer.cs">
+      <DependentUpon>modificarCondicionUsuario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Usuarios\eliminarUsuario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Usuarios\eliminarUsuario.Designer.cs">
+      <DependentUpon>eliminarUsuario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Usuarios\consultarUsuario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Usuarios\consultarUsuario.Designer.cs">
+      <DependentUpon>consultarUsuario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Cuentas\eliminarCuenta.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Cuentas\eliminarCuenta.Designer.cs">
+      <DependentUpon>eliminarCuenta.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Modelo de Datos\modeloDetalles.cs" />
+    <Compile Include="Modelo de Datos\modeloReportes.cs" />
+    <Compile Include="Modelo de Datos\modeloUsuarios.cs" />
+    <Compile Include="Reportes\reporteClientes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reportes\reporteClientes.Designer.cs">
+      <DependentUpon>reporteClientes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Reportes\reporteDetalleCuenta.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reportes\reporteDetalleCuenta.Designer.cs">
+      <DependentUpon>reporteDetalleCuenta.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Reportes\reporteCuentasCondicion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reportes\reporteCuentasCondicion.Designer.cs">
+      <DependentUpon>reporteCuentasCondicion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Reportes\reporteCuentasTodas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reportes\reporteCuentasTodas.Designer.cs">
+      <DependentUpon>reporteCuentasTodas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Reportes\reporteTransaccionesCuenta.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reportes\reporteTransaccionesCuenta.Designer.cs">
+      <DependentUpon>reporteTransaccionesCuenta.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Reportes\reporteTransaccionesCuentaFechas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reportes\reporteTransaccionesCuentaFechas.Designer.cs">
+      <DependentUpon>reporteTransaccionesCuentaFechas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Reportes\reporteTransaccionesTipo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reportes\reporteTransaccionesTipo.Designer.cs">
+      <DependentUpon>reporteTransaccionesTipo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Usuarios\resgistrarUsuario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Usuarios\resgistrarUsuario.Designer.cs">
+      <DependentUpon>resgistrarUsuario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Transacciones\anularTransaccion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Transacciones\anularTransaccion.Designer.cs">
+      <DependentUpon>anularTransaccion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Base Datos\conexionBaseDatos.cs" />
+    <Compile Include="Clientes\consultarCliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Clientes\consultarCliente.Designer.cs">
+      <DependentUpon>consultarCliente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Transacciones\consultarTransaccion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Transacciones\consultarTransaccion.Designer.cs">
+      <DependentUpon>consultarTransaccion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Cuentas\consultarCuentas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Cuentas\consultarCuentas.Designer.cs">
+      <DependentUpon>consultarCuentas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Modelo de Datos\modeloClientes.cs" />
+    <Compile Include="Clientes\modificarCliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Clientes\modificarCliente.Designer.cs">
+      <DependentUpon>modificarCliente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Clientes\eliminarCliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Clientes\eliminarCliente.Designer.cs">
+      <DependentUpon>eliminarCliente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Modelo de Datos\modeloCuentas.cs" />
+    <Compile Include="Cuentas\registrarCuentas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Cuentas\registrarCuentas.Designer.cs">
+      <DependentUpon>registrarCuentas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Menus\inicio.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Menus\inicio.Designer.cs">
+      <DependentUpon>inicio.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Menus\menuPrincipal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Menus\menuPrincipal.Designer.cs">
+      <DependentUpon>menuPrincipal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Cuentas\modificarCondicionCuenta.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Cuentas\modificarCondicionCuenta.Designer.cs">
+      <DependentUpon>modificarCondicionCuenta.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Cuentas\modificarMontoLimiteCredito.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Cuentas\modificarMontoLimiteCredito.Designer.cs">
+      <DependentUpon>modificarMontoLimiteCredito.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Modelo de Datos\modeloTransacciones.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Clientes\registrarCliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Clientes\registrarCliente.Designer.cs">
+      <DependentUpon>registrarCliente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Transacciones\registrarCredito.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Transacciones\registrarCredito.Designer.cs">
+      <DependentUpon>registrarCredito.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Transacciones\registrarAbono.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Transacciones\registrarAbono.Designer.cs">
+      <DependentUpon>registrarAbono.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Utilidades\utilidades.cs" />
+    <Compile Include="Utilidades\validaciones.cs" />
+    <EmbeddedResource Include="Clientes\consultarCliente.resx">
+      <DependentUpon>consultarCliente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Clientes\modificarCliente.resx">
+      <DependentUpon>modificarCliente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Clientes\eliminarCliente.resx">
+      <DependentUpon>eliminarCliente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Menus\inicioSesion.resx">
+      <DependentUpon>inicioSesion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Niveles\ModificarRol.resx">
+      <DependentUpon>ModificarRol.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Niveles\registrarNivel.resx">
+      <DependentUpon>registrarNivel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Funciones\registrarFuncion.resx">
+      <DependentUpon>registrarFuncion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Niveles\registrarRol.resx">
+      <DependentUpon>registrarRol.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reportes\reporteBitacoraFechas.resx">
+      <DependentUpon>reporteBitacoraFechas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reportes\reporteBitacoraUsuarios.resx">
+      <DependentUpon>reporteBitacoraUsuarios.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reportes\reporteRolesNivel.resx">
+      <DependentUpon>reporteRolesNivel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reportes\reporteRolesTodos.resx">
+      <DependentUpon>reporteRolesTodos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reportes\reporteUsuariosTodos.resx">
+      <DependentUpon>reporteUsuariosTodos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reportes\reporteUsuariosNivel.resx">
+      <DependentUpon>reporteUsuariosNivel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Usuarios\modificarDatosUsuario.resx">
+      <DependentUpon>modificarDatosUsuario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Usuarios\modificarCondicionUsuario.resx">
+      <DependentUpon>modificarCondicionUsuario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Usuarios\eliminarUsuario.resx">
+      <DependentUpon>eliminarUsuario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Usuarios\consultarUsuario.resx">
+      <DependentUpon>consultarUsuario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Cuentas\eliminarCuenta.resx">
+      <DependentUpon>eliminarCuenta.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reportes\reporteClientes.resx">
+      <DependentUpon>reporteClientes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reportes\reporteDetalleCuenta.resx">
+      <DependentUpon>reporteDetalleCuenta.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reportes\reporteCuentasCondicion.resx">
+      <DependentUpon>reporteCuentasCondicion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reportes\reporteCuentasTodas.resx">
+      <DependentUpon>reporteCuentasTodas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reportes\reporteTransaccionesCuenta.resx">
+      <DependentUpon>reporteTransaccionesCuenta.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reportes\reporteTransaccionesCuentaFechas.resx">
+      <DependentUpon>reporteTransaccionesCuentaFechas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reportes\reporteTransaccionesTipo.resx">
+      <DependentUpon>reporteTransaccionesTipo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Usuarios\resgistrarUsuario.resx">
+      <DependentUpon>resgistrarUsuario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Transacciones\anularTransaccion.resx">
+      <DependentUpon>anularTransaccion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Transacciones\consultarTransaccion.resx">
+      <DependentUpon>consultarTransaccion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Cuentas\consultarCuentas.resx">
+      <DependentUpon>consultarCuentas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Cuentas\registrarCuentas.resx">
+      <DependentUpon>registrarCuentas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Menus\inicio.resx">
+      <DependentUpon>inicio.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Menus\menuPrincipal.resx">
+      <DependentUpon>menuPrincipal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Cuentas\modificarCondicionCuenta.resx">
+      <DependentUpon>modificarCondicionCuenta.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Cuentas\modificarMontoLimiteCredito.resx">
+      <DependentUpon>modificarMontoLimiteCredito.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Clientes\registrarCliente.resx">
+      <DependentUpon>registrarCliente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Transacciones\registrarCredito.resx">
+      <DependentUpon>registrarCredito.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Transacciones\registrarAbono.resx">
+      <DependentUpon>registrarAbono.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

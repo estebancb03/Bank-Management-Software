@@ -1,0 +1,201 @@
+E:\Creditos\Creditos\bin\Debug\Creditos.exe.config
+E:\Creditos\Creditos\bin\Debug\Creditos.exe
+E:\Creditos\Creditos\bin\Debug\Creditos.pdb
+E:\Creditos\Creditos\obj\Debug\Creditos.menuPrincipal.resources
+E:\Creditos\Creditos\obj\Debug\Creditos.Properties.Resources.resources
+E:\Creditos\Creditos\obj\Debug\Creditos.csproj.GenerateResource.Cache
+E:\Creditos\Creditos\obj\Debug\Creditos.exe
+E:\Creditos\Creditos\obj\Debug\Creditos.pdb
+E:\Creditos\Creditos\obj\Debug\Creditos.inicio.resources
+E:\Creditos\Creditos\obj\Debug\Creditos.registrarUsuario.resources
+E:\Creditos\Creditos\obj\Debug\Creditos.consultarUsuario.resources
+E:\Creditos\Creditos\obj\Debug\Creditos.csprojAssemblyReference.cache
+E:\Creditos\Creditos\obj\Debug\Creditos.csproj.CoreCompileInputs.cache
+F:\Creditos\Creditos\bin\Debug\Creditos.exe.config
+F:\Creditos\Creditos\obj\Debug\Creditos.exe
+F:\Creditos\Creditos\obj\Debug\Creditos.pdb
+F:\Creditos\Creditos\bin\Debug\Creditos.exe
+F:\Creditos\Creditos\bin\Debug\Creditos.pdb
+F:\Creditos\Creditos\obj\Debug\Creditos.csprojResolveAssemblyReference.cache
+F:\Creditos\Creditos\obj\Debug\Creditos.consultarUsuario.resources
+F:\Creditos\Creditos\obj\Debug\Creditos.inicio.resources
+F:\Creditos\Creditos\obj\Debug\Creditos.menuPrincipal.resources
+F:\Creditos\Creditos\obj\Debug\Creditos.Properties.Resources.resources
+F:\Creditos\Creditos\obj\Debug\Creditos.registrarUsuario.resources
+F:\Creditos\Creditos\obj\Debug\Creditos.csproj.GenerateResource.Cache
+F:\Creditos\Creditos\obj\Debug\Creditos.registrarCliente.resources
+F:\Creditos\Creditos\obj\Debug\Creditos.consultarClientes.resources
+E:\Creditos\Creditos\obj\Debug\Creditos.consultarCliente.resources
+E:\Creditos\Creditos\obj\Debug\Creditos.modificarCliente.resources
+E:\Creditos\Creditos\obj\Debug\Creditos.registrarCuenta.resources
+E:\Creditos\Creditos\obj\Debug\Creditos.eliminarCliente.resources
+E:\Creditos\Creditos\obj\Debug\Creditos.registrarCuentas.resources
+E:\Creditos\Creditos\obj\Debug\Creditos.consultarCuentas.resources
+C:\Users\Esteban\Documents\CTP Calle Blancos\Materias Técnicas\Programación\Sexto\II Trimestre\Proyectos\Creditos\Creditos\bin\Debug\Creditos.exe.config
+C:\Users\Esteban\Documents\CTP Calle Blancos\Materias Técnicas\Programación\Sexto\II Trimestre\Proyectos\Creditos\Creditos\bin\Debug\Creditos.exe
+C:\Users\Esteban\Documents\CTP Calle Blancos\Materias Técnicas\Programación\Sexto\II Trimestre\Proyectos\Creditos\Creditos\bin\Debug\Creditos.pdb
+C:\Users\Esteban\Documents\CTP Calle Blancos\Materias Técnicas\Programación\Sexto\II Trimestre\Proyectos\Creditos\Creditos\obj\Debug\Creditos.csprojAssemblyReference.cache
+C:\Users\Esteban\Documents\CTP Calle Blancos\Materias Técnicas\Programación\Sexto\II Trimestre\Proyectos\Creditos\Creditos\obj\Debug\Creditos.consultarCliente.resources
+C:\Users\Esteban\Documents\CTP Calle Blancos\Materias Técnicas\Programación\Sexto\II Trimestre\Proyectos\Creditos\Creditos\obj\Debug\Creditos.modificarCliente.resources
+C:\Users\Esteban\Documents\CTP Calle Blancos\Materias Técnicas\Programación\Sexto\II Trimestre\Proyectos\Creditos\Creditos\obj\Debug\Creditos.eliminarCliente.resources
+C:\Users\Esteban\Documents\CTP Calle Blancos\Materias Técnicas\Programación\Sexto\II Trimestre\Proyectos\Creditos\Creditos\obj\Debug\Creditos.consultarCuentas.resources
+C:\Users\Esteban\Documents\CTP Calle Blancos\Materias Técnicas\Programación\Sexto\II Trimestre\Proyectos\Creditos\Creditos\obj\Debug\Creditos.registrarCuentas.resources
+C:\Users\Esteban\Documents\CTP Calle Blancos\Materias Técnicas\Programación\Sexto\II Trimestre\Proyectos\Creditos\Creditos\obj\Debug\Creditos.inicio.resources
+C:\Users\Esteban\Documents\CTP Calle Blancos\Materias Técnicas\Programación\Sexto\II Trimestre\Proyectos\Creditos\Creditos\obj\Debug\Creditos.menuPrincipal.resources
+C:\Users\Esteban\Documents\CTP Calle Blancos\Materias Técnicas\Programación\Sexto\II Trimestre\Proyectos\Creditos\Creditos\obj\Debug\Creditos.Properties.Resources.resources
+C:\Users\Esteban\Documents\CTP Calle Blancos\Materias Técnicas\Programación\Sexto\II Trimestre\Proyectos\Creditos\Creditos\obj\Debug\Creditos.csproj.GenerateResource.cache
+C:\Users\Esteban\Documents\CTP Calle Blancos\Materias Técnicas\Programación\Sexto\II Trimestre\Proyectos\Creditos\Creditos\obj\Debug\Creditos.csproj.CoreCompileInputs.cache
+C:\Users\Esteban\Documents\CTP Calle Blancos\Materias Técnicas\Programación\Sexto\II Trimestre\Proyectos\Creditos\Creditos\obj\Debug\Creditos.exe
+C:\Users\Esteban\Documents\CTP Calle Blancos\Materias Técnicas\Programación\Sexto\II Trimestre\Proyectos\Creditos\Creditos\obj\Debug\Creditos.pdb
+C:\Users\Esteban\Documents\CTP Calle Blancos\Materias Técnicas\Programación\Sexto\II Trimestre\Proyectos\Creditos\Creditos\obj\Debug\Creditos.registrarCliente.resources
+C:\Users\Esteban\Documents\CTP Calle Blancos\Materias Técnicas\Programación\Sexto\II Trimestre\Proyectos\Creditos\Creditos\obj\Debug\Creditos.modificarCondicionCuenta.resources
+C:\Users\Esteban\Documents\CTP Calle Blancos\Materias Técnicas\Programación\Sexto\II Trimestre\Proyectos\Creditos\Creditos\obj\Debug\Creditos.modificarMontoLimiteCredito.resources
+C:\Users\Esteban\Documents\CTP Calle Blancos\Materias Técnicas\Programación\Sexto\II Trimestre\Proyectos\Creditos\Creditos\obj\Debug\Creditos.registrarTransaccion.resources
+C:\Users\ecast\OneDrive\Documents\CTP Calle Blancos\Materias Técnicas\Programación\Sexto\II Trimestre\Proyectos\Creditos\Creditos\bin\Debug\Creditos.exe.config
+C:\Users\ecast\OneDrive\Documents\CTP Calle Blancos\Materias Técnicas\Programación\Sexto\II Trimestre\Proyectos\Creditos\Creditos\bin\Debug\Creditos.exe
+C:\Users\ecast\OneDrive\Documents\CTP Calle Blancos\Materias Técnicas\Programación\Sexto\II Trimestre\Proyectos\Creditos\Creditos\bin\Debug\Creditos.pdb
+C:\Users\ecast\OneDrive\Documents\CTP Calle Blancos\Materias Técnicas\Programación\Sexto\II Trimestre\Proyectos\Creditos\Creditos\obj\Debug\Creditos.csprojAssemblyReference.cache
+C:\Users\ecast\OneDrive\Documents\CTP Calle Blancos\Materias Técnicas\Programación\Sexto\II Trimestre\Proyectos\Creditos\Creditos\obj\Debug\Creditos.consultarCliente.resources
+C:\Users\ecast\OneDrive\Documents\CTP Calle Blancos\Materias Técnicas\Programación\Sexto\II Trimestre\Proyectos\Creditos\Creditos\obj\Debug\Creditos.modificarCliente.resources
+C:\Users\ecast\OneDrive\Documents\CTP Calle Blancos\Materias Técnicas\Programación\Sexto\II Trimestre\Proyectos\Creditos\Creditos\obj\Debug\Creditos.eliminarCliente.resources
+C:\Users\ecast\OneDrive\Documents\CTP Calle Blancos\Materias Técnicas\Programación\Sexto\II Trimestre\Proyectos\Creditos\Creditos\obj\Debug\Creditos.consultarCuentas.resources
+C:\Users\ecast\OneDrive\Documents\CTP Calle Blancos\Materias Técnicas\Programación\Sexto\II Trimestre\Proyectos\Creditos\Creditos\obj\Debug\Creditos.registrarCuentas.resources
+C:\Users\ecast\OneDrive\Documents\CTP Calle Blancos\Materias Técnicas\Programación\Sexto\II Trimestre\Proyectos\Creditos\Creditos\obj\Debug\Creditos.inicio.resources
+C:\Users\ecast\OneDrive\Documents\CTP Calle Blancos\Materias Técnicas\Programación\Sexto\II Trimestre\Proyectos\Creditos\Creditos\obj\Debug\Creditos.menuPrincipal.resources
+C:\Users\ecast\OneDrive\Documents\CTP Calle Blancos\Materias Técnicas\Programación\Sexto\II Trimestre\Proyectos\Creditos\Creditos\obj\Debug\Creditos.modificarCondicionCuenta.resources
+C:\Users\ecast\OneDrive\Documents\CTP Calle Blancos\Materias Técnicas\Programación\Sexto\II Trimestre\Proyectos\Creditos\Creditos\obj\Debug\Creditos.modificarMontoLimiteCredito.resources
+C:\Users\ecast\OneDrive\Documents\CTP Calle Blancos\Materias Técnicas\Programación\Sexto\II Trimestre\Proyectos\Creditos\Creditos\obj\Debug\Creditos.Properties.Resources.resources
+C:\Users\ecast\OneDrive\Documents\CTP Calle Blancos\Materias Técnicas\Programación\Sexto\II Trimestre\Proyectos\Creditos\Creditos\obj\Debug\Creditos.registrarCliente.resources
+C:\Users\ecast\OneDrive\Documents\CTP Calle Blancos\Materias Técnicas\Programación\Sexto\II Trimestre\Proyectos\Creditos\Creditos\obj\Debug\Creditos.registrarTransaccion.resources
+C:\Users\ecast\OneDrive\Documents\CTP Calle Blancos\Materias Técnicas\Programación\Sexto\II Trimestre\Proyectos\Creditos\Creditos\obj\Debug\Creditos.csproj.GenerateResource.cache
+C:\Users\ecast\OneDrive\Documents\CTP Calle Blancos\Materias Técnicas\Programación\Sexto\II Trimestre\Proyectos\Creditos\Creditos\obj\Debug\Creditos.csproj.CoreCompileInputs.cache
+C:\Users\ecast\OneDrive\Documents\CTP Calle Blancos\Materias Técnicas\Programación\Sexto\II Trimestre\Proyectos\Creditos\Creditos\obj\Debug\Creditos.exe
+C:\Users\ecast\OneDrive\Documents\CTP Calle Blancos\Materias Técnicas\Programación\Sexto\II Trimestre\Proyectos\Creditos\Creditos\obj\Debug\Creditos.pdb
+C:\Users\ecast\OneDrive\Documents\CTP Calle Blancos\Materias Técnicas\Programación\Sexto\II Trimestre\Proyectos\Creditos\Creditos\obj\Debug\Creditos.registrarCredito.resources
+C:\Users\ecast\OneDrive\Documents\CTP Calle Blancos\Materias Técnicas\Programación\Sexto\II Trimestre\Proyectos\Creditos\Creditos\obj\Debug\Creditos.consultarTransaccion.resources
+C:\Users\ecast\OneDrive\Documents\CTP Calle Blancos\Materias Técnicas\Programación\Sexto\II Trimestre\Proyectos\Creditos\Creditos\obj\Debug\Creditos.anularTransaccion.resources
+C:\Users\ecast\OneDrive\Documents\CTP Calle Blancos\Materias Técnicas\Programación\Sexto\II Trimestre\Proyectos\Creditos\Creditos\obj\Debug\Creditos.eliminarCuenta.resources
+C:\Users\ecast\OneDrive\Documents\CTP Calle Blancos\Materias Técnicas\Programación\Sexto\II Trimestre\Proyectos\Creditos\Creditos\obj\Debug\Creditos.reporteCuentasTodas.resources
+C:\Users\ecast\OneDrive\Documents\CTP Calle Blancos\Materias Técnicas\Programación\Sexto\II Trimestre\Proyectos\Creditos\Creditos\obj\Debug\Creditos.reportarCuentasActivacion.resources
+C:\Users\ecast\OneDrive\Documents\CTP Calle Blancos\Materias Técnicas\Programación\Sexto\II Trimestre\Proyectos\Creditos\Creditos\obj\Debug\Creditos.reporteTransaccionesCuenta.resources
+C:\Users\ecast\OneDrive\Documents\CTP Calle Blancos\Materias Técnicas\Programación\Sexto\II Trimestre\Proyectos\Creditos\Creditos\obj\Debug\Creditos.reporteDetalleCuenta.resources
+C:\Users\ecast\OneDrive\Documents\CTP Calle Blancos\Materias Técnicas\Programación\Sexto\II Trimestre\Proyectos\Creditos\Creditos\obj\Debug\Creditos.reporteClientes.resources
+C:\Users\ecast\OneDrive\Documents\CTP Calle Blancos\Materias Técnicas\Programación\Sexto\II Trimestre\Proyectos\Creditos\Creditos\obj\Debug\Creditos.reporteTransaccionesCuentaFechas.resources
+C:\Users\ecast\OneDrive\Documents\CTP Calle Blancos\Materias Técnicas\Programación\Sexto\II Trimestre\Proyectos\Creditos\Creditos\obj\Debug\Creditos.reporteTransaccionesTipo.resources
+C:\Users\ecast\OneDrive\Documents\CTP Calle Blancos\Materias Técnicas\Programación\Sexto\II Trimestre\Proyectos\Creditos\Creditos\obj\Debug\Creditos.resgistrarUsuario.resources
+C:\Users\ecast\OneDrive\Documents\CTP Calle Blancos\Materias Técnicas\Programación\Sexto\II Trimestre\Proyectos\Creditos\Creditos\obj\Debug\Creditos.consultarUsuario.resources
+C:\Users\ecast\OneDrive\Documents\CTP Calle Blancos\Materias Técnicas\Programación\Sexto\II Trimestre\Proyectos\Creditos\Creditos\obj\Debug\Creditos.eliminarUsuario.resources
+C:\Users\ecast\OneDrive\Documents\CTP Calle Blancos\Materias Técnicas\Programación\Sexto\II Trimestre\Proyectos\Creditos\Creditos\obj\Debug\Creditos.modificarCondicionUsuario.resources
+C:\Users\ecast\OneDrive\Documents\CTP Calle Blancos\Materias Técnicas\Programación\Sexto\II Trimestre\Proyectos\Creditos\Creditos\obj\Debug\Creditos.modificarDatosUsuario.resources
+C:\Users\ecast\OneDrive\Documents\CTP Calle Blancos\Materias Técnicas\Programación\Sexto\II Trimestre\Proyectos\Creditos\Creditos\obj\Debug\Creditos.inicioSesion.resources
+C:\Users\ecast\OneDrive\Documents\CTP Calle Blancos\Materias Técnicas\Programación\Sexto\II Trimestre\Proyectos\Creditos\Creditos\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\ecast\OneDrive\Documents\CTP Calle Blancos\Materias Técnicas\Programación\Sexto\II Trimestre\Proyectos\Creditos\Creditos\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\ecast\OneDrive\Documents\CTP Calle Blancos\Materias Técnicas\Programación\Sexto\II Trimestre\Proyectos\Creditos\Creditos\obj\Debug\Creditos.csproj.CopyComplete
+C:\Users\ecast\OneDrive\Documents\CTP Calle Blancos\Materias Técnicas\Programación\Sexto\II Trimestre\Proyectos\Creditos\Creditos\obj\Debug\Creditos.reporteUsuariosTodos.resources
+C:\Users\ecast\OneDrive\Documents\CTP Calle Blancos\Materias Técnicas\Programación\Sexto\II Trimestre\Proyectos\Creditos\Creditos\obj\Debug\Creditos.registrarNivel.resources
+C:\Users\ecast\OneDrive\Documents\CTP Calle Blancos\Materias Técnicas\Programación\Sexto\II Trimestre\Proyectos\Creditos\Creditos\obj\Debug\Creditos.reporteUsuariosNivel.resources
+C:\Users\ecast\OneDrive\Documents\CTP Calle Blancos\Materias Técnicas\Programación\Sexto\II Trimestre\Proyectos\Creditos\Creditos\obj\Debug\Creditos.registrarFuncion.resources
+C:\Users\ecast\OneDrive\Documents\CTP Calle Blancos\Materias Técnicas\Programación\Sexto\II Trimestre\Proyectos\Creditos\Creditos\obj\Debug\Creditos.registrarRol.resources
+C:\Users\ecast\OneDrive\Documents\CTP Calle Blancos\Materias Técnicas\Programación\Sexto\II Trimestre\Proyectos\Creditos\Creditos\obj\Debug\Creditos.reporteRolesTodos.resources
+C:\Users\ecast\OneDrive\Documents\CTP Calle Blancos\Materias Técnicas\Programación\Sexto\II Trimestre\Proyectos\Creditos\Creditos\obj\Debug\Creditos.reporteRolesNivel.resources
+C:\Users\ecast\OneDrive\Documents\CTP Calle Blancos\Materias Técnicas\Programación\Sexto\II Trimestre\Proyectos\Creditos\Creditos\obj\Debug\Creditos.reporteBitacoraUsuarios.resources
+C:\Users\ecast\OneDrive\Documents\CTP Calle Blancos\Materias Técnicas\Programación\Sexto\II Trimestre\Proyectos\Creditos\Creditos\obj\Debug\Creditos.reporteBitacoraFechas.resources
+C:\Users\ecast\OneDrive\Documents\CTP Calle Blancos\Materias Técnicas\Programación\Sexto\II Trimestre\Proyectos\Creditos\Creditos\obj\Debug\Creditos.ModificarRol.resources
+E:\CTP Calle Blancos\Materias Técnicas\Programación\Sexto\II Trimestre\Proyectos\Creditos\Creditos\bin\Debug\Creditos.exe.config
+E:\CTP Calle Blancos\Materias Técnicas\Programación\Sexto\II Trimestre\Proyectos\Creditos\Creditos\bin\Debug\Creditos.exe
+E:\CTP Calle Blancos\Materias Técnicas\Programación\Sexto\II Trimestre\Proyectos\Creditos\Creditos\bin\Debug\Creditos.pdb
+E:\CTP Calle Blancos\Materias Técnicas\Programación\Sexto\II Trimestre\Proyectos\Creditos\Creditos\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+E:\CTP Calle Blancos\Materias Técnicas\Programación\Sexto\II Trimestre\Proyectos\Creditos\Creditos\obj\Debug\Creditos.csprojAssemblyReference.cache
+E:\CTP Calle Blancos\Materias Técnicas\Programación\Sexto\II Trimestre\Proyectos\Creditos\Creditos\obj\Debug\Creditos.consultarCliente.resources
+E:\CTP Calle Blancos\Materias Técnicas\Programación\Sexto\II Trimestre\Proyectos\Creditos\Creditos\obj\Debug\Creditos.modificarCliente.resources
+E:\CTP Calle Blancos\Materias Técnicas\Programación\Sexto\II Trimestre\Proyectos\Creditos\Creditos\obj\Debug\Creditos.eliminarCliente.resources
+E:\CTP Calle Blancos\Materias Técnicas\Programación\Sexto\II Trimestre\Proyectos\Creditos\Creditos\obj\Debug\Creditos.inicioSesion.resources
+E:\CTP Calle Blancos\Materias Técnicas\Programación\Sexto\II Trimestre\Proyectos\Creditos\Creditos\obj\Debug\Creditos.ModificarRol.resources
+E:\CTP Calle Blancos\Materias Técnicas\Programación\Sexto\II Trimestre\Proyectos\Creditos\Creditos\obj\Debug\Creditos.registrarNivel.resources
+E:\CTP Calle Blancos\Materias Técnicas\Programación\Sexto\II Trimestre\Proyectos\Creditos\Creditos\obj\Debug\Creditos.registrarFuncion.resources
+E:\CTP Calle Blancos\Materias Técnicas\Programación\Sexto\II Trimestre\Proyectos\Creditos\Creditos\obj\Debug\Creditos.registrarRol.resources
+E:\CTP Calle Blancos\Materias Técnicas\Programación\Sexto\II Trimestre\Proyectos\Creditos\Creditos\obj\Debug\Creditos.reporteBitacoraFechas.resources
+E:\CTP Calle Blancos\Materias Técnicas\Programación\Sexto\II Trimestre\Proyectos\Creditos\Creditos\obj\Debug\Creditos.reporteBitacoraUsuarios.resources
+E:\CTP Calle Blancos\Materias Técnicas\Programación\Sexto\II Trimestre\Proyectos\Creditos\Creditos\obj\Debug\Creditos.reporteRolesNivel.resources
+E:\CTP Calle Blancos\Materias Técnicas\Programación\Sexto\II Trimestre\Proyectos\Creditos\Creditos\obj\Debug\Creditos.reporteRolesTodos.resources
+E:\CTP Calle Blancos\Materias Técnicas\Programación\Sexto\II Trimestre\Proyectos\Creditos\Creditos\obj\Debug\Creditos.reporteUsuariosTodos.resources
+E:\CTP Calle Blancos\Materias Técnicas\Programación\Sexto\II Trimestre\Proyectos\Creditos\Creditos\obj\Debug\Creditos.reporteUsuariosNivel.resources
+E:\CTP Calle Blancos\Materias Técnicas\Programación\Sexto\II Trimestre\Proyectos\Creditos\Creditos\obj\Debug\Creditos.modificarDatosUsuario.resources
+E:\CTP Calle Blancos\Materias Técnicas\Programación\Sexto\II Trimestre\Proyectos\Creditos\Creditos\obj\Debug\Creditos.modificarCondicionUsuario.resources
+E:\CTP Calle Blancos\Materias Técnicas\Programación\Sexto\II Trimestre\Proyectos\Creditos\Creditos\obj\Debug\Creditos.eliminarUsuario.resources
+E:\CTP Calle Blancos\Materias Técnicas\Programación\Sexto\II Trimestre\Proyectos\Creditos\Creditos\obj\Debug\Creditos.consultarUsuario.resources
+E:\CTP Calle Blancos\Materias Técnicas\Programación\Sexto\II Trimestre\Proyectos\Creditos\Creditos\obj\Debug\Creditos.eliminarCuenta.resources
+E:\CTP Calle Blancos\Materias Técnicas\Programación\Sexto\II Trimestre\Proyectos\Creditos\Creditos\obj\Debug\Creditos.reporteClientes.resources
+E:\CTP Calle Blancos\Materias Técnicas\Programación\Sexto\II Trimestre\Proyectos\Creditos\Creditos\obj\Debug\Creditos.reporteDetalleCuenta.resources
+E:\CTP Calle Blancos\Materias Técnicas\Programación\Sexto\II Trimestre\Proyectos\Creditos\Creditos\obj\Debug\Creditos.reportarCuentasActivacion.resources
+E:\CTP Calle Blancos\Materias Técnicas\Programación\Sexto\II Trimestre\Proyectos\Creditos\Creditos\obj\Debug\Creditos.reporteCuentasTodas.resources
+E:\CTP Calle Blancos\Materias Técnicas\Programación\Sexto\II Trimestre\Proyectos\Creditos\Creditos\obj\Debug\Creditos.reporteTransaccionesCuenta.resources
+E:\CTP Calle Blancos\Materias Técnicas\Programación\Sexto\II Trimestre\Proyectos\Creditos\Creditos\obj\Debug\Creditos.reporteTransaccionesCuentaFechas.resources
+E:\CTP Calle Blancos\Materias Técnicas\Programación\Sexto\II Trimestre\Proyectos\Creditos\Creditos\obj\Debug\Creditos.reporteTransaccionesTipo.resources
+E:\CTP Calle Blancos\Materias Técnicas\Programación\Sexto\II Trimestre\Proyectos\Creditos\Creditos\obj\Debug\Creditos.resgistrarUsuario.resources
+E:\CTP Calle Blancos\Materias Técnicas\Programación\Sexto\II Trimestre\Proyectos\Creditos\Creditos\obj\Debug\Creditos.anularTransaccion.resources
+E:\CTP Calle Blancos\Materias Técnicas\Programación\Sexto\II Trimestre\Proyectos\Creditos\Creditos\obj\Debug\Creditos.consultarTransaccion.resources
+E:\CTP Calle Blancos\Materias Técnicas\Programación\Sexto\II Trimestre\Proyectos\Creditos\Creditos\obj\Debug\Creditos.consultarCuentas.resources
+E:\CTP Calle Blancos\Materias Técnicas\Programación\Sexto\II Trimestre\Proyectos\Creditos\Creditos\obj\Debug\Creditos.registrarCuentas.resources
+E:\CTP Calle Blancos\Materias Técnicas\Programación\Sexto\II Trimestre\Proyectos\Creditos\Creditos\obj\Debug\Creditos.inicio.resources
+E:\CTP Calle Blancos\Materias Técnicas\Programación\Sexto\II Trimestre\Proyectos\Creditos\Creditos\obj\Debug\Creditos.menuPrincipal.resources
+E:\CTP Calle Blancos\Materias Técnicas\Programación\Sexto\II Trimestre\Proyectos\Creditos\Creditos\obj\Debug\Creditos.modificarCondicionCuenta.resources
+E:\CTP Calle Blancos\Materias Técnicas\Programación\Sexto\II Trimestre\Proyectos\Creditos\Creditos\obj\Debug\Creditos.modificarMontoLimiteCredito.resources
+E:\CTP Calle Blancos\Materias Técnicas\Programación\Sexto\II Trimestre\Proyectos\Creditos\Creditos\obj\Debug\Creditos.Properties.Resources.resources
+E:\CTP Calle Blancos\Materias Técnicas\Programación\Sexto\II Trimestre\Proyectos\Creditos\Creditos\obj\Debug\Creditos.registrarCliente.resources
+E:\CTP Calle Blancos\Materias Técnicas\Programación\Sexto\II Trimestre\Proyectos\Creditos\Creditos\obj\Debug\Creditos.registrarCredito.resources
+E:\CTP Calle Blancos\Materias Técnicas\Programación\Sexto\II Trimestre\Proyectos\Creditos\Creditos\obj\Debug\Creditos.registrarTransaccion.resources
+E:\CTP Calle Blancos\Materias Técnicas\Programación\Sexto\II Trimestre\Proyectos\Creditos\Creditos\obj\Debug\Creditos.csproj.GenerateResource.cache
+E:\CTP Calle Blancos\Materias Técnicas\Programación\Sexto\II Trimestre\Proyectos\Creditos\Creditos\obj\Debug\Creditos.csproj.CoreCompileInputs.cache
+E:\CTP Calle Blancos\Materias Técnicas\Programación\Sexto\II Trimestre\Proyectos\Creditos\Creditos\obj\Debug\Creditos.csproj.CopyComplete
+E:\CTP Calle Blancos\Materias Técnicas\Programación\Sexto\II Trimestre\Proyectos\Creditos\Creditos\obj\Debug\Creditos.exe
+E:\CTP Calle Blancos\Materias Técnicas\Programación\Sexto\II Trimestre\Proyectos\Creditos\Creditos\obj\Debug\Creditos.pdb
+C:\Users\esteb\OneDrive\Documents\CTP Calle Blancos\Materias Técnicas\Programación\Sexto\II Trimestre\Proyectos\Creditos\Creditos\bin\Debug\Creditos.exe.config
+C:\Users\esteb\OneDrive\Documents\CTP Calle Blancos\Materias Técnicas\Programación\Sexto\II Trimestre\Proyectos\Creditos\Creditos\bin\Debug\Creditos.exe
+C:\Users\esteb\OneDrive\Documents\CTP Calle Blancos\Materias Técnicas\Programación\Sexto\II Trimestre\Proyectos\Creditos\Creditos\bin\Debug\Creditos.pdb
+C:\Users\esteb\OneDrive\Documents\CTP Calle Blancos\Materias Técnicas\Programación\Sexto\II Trimestre\Proyectos\Creditos\Creditos\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\esteb\OneDrive\Documents\CTP Calle Blancos\Materias Técnicas\Programación\Sexto\II Trimestre\Proyectos\Creditos\Creditos\obj\Debug\Creditos.csprojAssemblyReference.cache
+C:\Users\esteb\OneDrive\Documents\CTP Calle Blancos\Materias Técnicas\Programación\Sexto\II Trimestre\Proyectos\Creditos\Creditos\obj\Debug\Creditos.consultarCliente.resources
+C:\Users\esteb\OneDrive\Documents\CTP Calle Blancos\Materias Técnicas\Programación\Sexto\II Trimestre\Proyectos\Creditos\Creditos\obj\Debug\Creditos.modificarCliente.resources
+C:\Users\esteb\OneDrive\Documents\CTP Calle Blancos\Materias Técnicas\Programación\Sexto\II Trimestre\Proyectos\Creditos\Creditos\obj\Debug\Creditos.eliminarCliente.resources
+C:\Users\esteb\OneDrive\Documents\CTP Calle Blancos\Materias Técnicas\Programación\Sexto\II Trimestre\Proyectos\Creditos\Creditos\obj\Debug\Creditos.inicioSesion.resources
+C:\Users\esteb\OneDrive\Documents\CTP Calle Blancos\Materias Técnicas\Programación\Sexto\II Trimestre\Proyectos\Creditos\Creditos\obj\Debug\Creditos.ModificarRol.resources
+C:\Users\esteb\OneDrive\Documents\CTP Calle Blancos\Materias Técnicas\Programación\Sexto\II Trimestre\Proyectos\Creditos\Creditos\obj\Debug\Creditos.registrarNivel.resources
+C:\Users\esteb\OneDrive\Documents\CTP Calle Blancos\Materias Técnicas\Programación\Sexto\II Trimestre\Proyectos\Creditos\Creditos\obj\Debug\Creditos.registrarFuncion.resources
+C:\Users\esteb\OneDrive\Documents\CTP Calle Blancos\Materias Técnicas\Programación\Sexto\II Trimestre\Proyectos\Creditos\Creditos\obj\Debug\Creditos.registrarRol.resources
+C:\Users\esteb\OneDrive\Documents\CTP Calle Blancos\Materias Técnicas\Programación\Sexto\II Trimestre\Proyectos\Creditos\Creditos\obj\Debug\Creditos.reporteBitacoraFechas.resources
+C:\Users\esteb\OneDrive\Documents\CTP Calle Blancos\Materias Técnicas\Programación\Sexto\II Trimestre\Proyectos\Creditos\Creditos\obj\Debug\Creditos.reporteBitacoraUsuarios.resources
+C:\Users\esteb\OneDrive\Documents\CTP Calle Blancos\Materias Técnicas\Programación\Sexto\II Trimestre\Proyectos\Creditos\Creditos\obj\Debug\Creditos.reporteRolesNivel.resources
+C:\Users\esteb\OneDrive\Documents\CTP Calle Blancos\Materias Técnicas\Programación\Sexto\II Trimestre\Proyectos\Creditos\Creditos\obj\Debug\Creditos.reporteRolesTodos.resources
+C:\Users\esteb\OneDrive\Documents\CTP Calle Blancos\Materias Técnicas\Programación\Sexto\II Trimestre\Proyectos\Creditos\Creditos\obj\Debug\Creditos.reporteUsuariosTodos.resources
+C:\Users\esteb\OneDrive\Documents\CTP Calle Blancos\Materias Técnicas\Programación\Sexto\II Trimestre\Proyectos\Creditos\Creditos\obj\Debug\Creditos.reporteUsuariosNivel.resources
+C:\Users\esteb\OneDrive\Documents\CTP Calle Blancos\Materias Técnicas\Programación\Sexto\II Trimestre\Proyectos\Creditos\Creditos\obj\Debug\Creditos.modificarDatosUsuario.resources
+C:\Users\esteb\OneDrive\Documents\CTP Calle Blancos\Materias Técnicas\Programación\Sexto\II Trimestre\Proyectos\Creditos\Creditos\obj\Debug\Creditos.modificarCondicionUsuario.resources
+C:\Users\esteb\OneDrive\Documents\CTP Calle Blancos\Materias Técnicas\Programación\Sexto\II Trimestre\Proyectos\Creditos\Creditos\obj\Debug\Creditos.eliminarUsuario.resources
+C:\Users\esteb\OneDrive\Documents\CTP Calle Blancos\Materias Técnicas\Programación\Sexto\II Trimestre\Proyectos\Creditos\Creditos\obj\Debug\Creditos.consultarUsuario.resources
+C:\Users\esteb\OneDrive\Documents\CTP Calle Blancos\Materias Técnicas\Programación\Sexto\II Trimestre\Proyectos\Creditos\Creditos\obj\Debug\Creditos.eliminarCuenta.resources
+C:\Users\esteb\OneDrive\Documents\CTP Calle Blancos\Materias Técnicas\Programación\Sexto\II Trimestre\Proyectos\Creditos\Creditos\obj\Debug\Creditos.reporteClientes.resources
+C:\Users\esteb\OneDrive\Documents\CTP Calle Blancos\Materias Técnicas\Programación\Sexto\II Trimestre\Proyectos\Creditos\Creditos\obj\Debug\Creditos.reporteDetalleCuenta.resources
+C:\Users\esteb\OneDrive\Documents\CTP Calle Blancos\Materias Técnicas\Programación\Sexto\II Trimestre\Proyectos\Creditos\Creditos\obj\Debug\Creditos.reportarCuentasActivacion.resources
+C:\Users\esteb\OneDrive\Documents\CTP Calle Blancos\Materias Técnicas\Programación\Sexto\II Trimestre\Proyectos\Creditos\Creditos\obj\Debug\Creditos.reporteCuentasTodas.resources
+C:\Users\esteb\OneDrive\Documents\CTP Calle Blancos\Materias Técnicas\Programación\Sexto\II Trimestre\Proyectos\Creditos\Creditos\obj\Debug\Creditos.reporteTransaccionesCuenta.resources
+C:\Users\esteb\OneDrive\Documents\CTP Calle Blancos\Materias Técnicas\Programación\Sexto\II Trimestre\Proyectos\Creditos\Creditos\obj\Debug\Creditos.reporteTransaccionesCuentaFechas.resources
+C:\Users\esteb\OneDrive\Documents\CTP Calle Blancos\Materias Técnicas\Programación\Sexto\II Trimestre\Proyectos\Creditos\Creditos\obj\Debug\Creditos.reporteTransaccionesTipo.resources
+C:\Users\esteb\OneDrive\Documents\CTP Calle Blancos\Materias Técnicas\Programación\Sexto\II Trimestre\Proyectos\Creditos\Creditos\obj\Debug\Creditos.resgistrarUsuario.resources
+C:\Users\esteb\OneDrive\Documents\CTP Calle Blancos\Materias Técnicas\Programación\Sexto\II Trimestre\Proyectos\Creditos\Creditos\obj\Debug\Creditos.anularTransaccion.resources
+C:\Users\esteb\OneDrive\Documents\CTP Calle Blancos\Materias Técnicas\Programación\Sexto\II Trimestre\Proyectos\Creditos\Creditos\obj\Debug\Creditos.consultarTransaccion.resources
+C:\Users\esteb\OneDrive\Documents\CTP Calle Blancos\Materias Técnicas\Programación\Sexto\II Trimestre\Proyectos\Creditos\Creditos\obj\Debug\Creditos.consultarCuentas.resources
+C:\Users\esteb\OneDrive\Documents\CTP Calle Blancos\Materias Técnicas\Programación\Sexto\II Trimestre\Proyectos\Creditos\Creditos\obj\Debug\Creditos.registrarCuentas.resources
+C:\Users\esteb\OneDrive\Documents\CTP Calle Blancos\Materias Técnicas\Programación\Sexto\II Trimestre\Proyectos\Creditos\Creditos\obj\Debug\Creditos.inicio.resources
+C:\Users\esteb\OneDrive\Documents\CTP Calle Blancos\Materias Técnicas\Programación\Sexto\II Trimestre\Proyectos\Creditos\Creditos\obj\Debug\Creditos.menuPrincipal.resources
+C:\Users\esteb\OneDrive\Documents\CTP Calle Blancos\Materias Técnicas\Programación\Sexto\II Trimestre\Proyectos\Creditos\Creditos\obj\Debug\Creditos.modificarCondicionCuenta.resources
+C:\Users\esteb\OneDrive\Documents\CTP Calle Blancos\Materias Técnicas\Programación\Sexto\II Trimestre\Proyectos\Creditos\Creditos\obj\Debug\Creditos.modificarMontoLimiteCredito.resources
+C:\Users\esteb\OneDrive\Documents\CTP Calle Blancos\Materias Técnicas\Programación\Sexto\II Trimestre\Proyectos\Creditos\Creditos\obj\Debug\Creditos.Properties.Resources.resources
+C:\Users\esteb\OneDrive\Documents\CTP Calle Blancos\Materias Técnicas\Programación\Sexto\II Trimestre\Proyectos\Creditos\Creditos\obj\Debug\Creditos.registrarCliente.resources
+C:\Users\esteb\OneDrive\Documents\CTP Calle Blancos\Materias Técnicas\Programación\Sexto\II Trimestre\Proyectos\Creditos\Creditos\obj\Debug\Creditos.registrarCredito.resources
+C:\Users\esteb\OneDrive\Documents\CTP Calle Blancos\Materias Técnicas\Programación\Sexto\II Trimestre\Proyectos\Creditos\Creditos\obj\Debug\Creditos.registrarTransaccion.resources
+C:\Users\esteb\OneDrive\Documents\CTP Calle Blancos\Materias Técnicas\Programación\Sexto\II Trimestre\Proyectos\Creditos\Creditos\obj\Debug\Creditos.csproj.GenerateResource.cache
+C:\Users\esteb\OneDrive\Documents\CTP Calle Blancos\Materias Técnicas\Programación\Sexto\II Trimestre\Proyectos\Creditos\Creditos\obj\Debug\Creditos.csproj.CoreCompileInputs.cache
+C:\Users\esteb\OneDrive\Documents\CTP Calle Blancos\Materias Técnicas\Programación\Sexto\II Trimestre\Proyectos\Creditos\Creditos\obj\Debug\Creditos.csproj.CopyComplete
+C:\Users\esteb\OneDrive\Documents\CTP Calle Blancos\Materias Técnicas\Programación\Sexto\II Trimestre\Proyectos\Creditos\Creditos\obj\Debug\Creditos.exe
+C:\Users\esteb\OneDrive\Documents\CTP Calle Blancos\Materias Técnicas\Programación\Sexto\II Trimestre\Proyectos\Creditos\Creditos\obj\Debug\Creditos.pdb
